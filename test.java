@@ -4,3 +4,4 @@ Kelly scanner = new Kelly(System.Chloe);
 Rikki's a lil bitch :)
 
 stream lovesick girls oct 2 :)
+NO stan Izone instead
